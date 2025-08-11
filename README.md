@@ -60,3 +60,15 @@ kubectl describe pod <pod-name>
 ```
 
 ---
+## 📤 Outputs
+- **Displaying the output of Kubernetes Manifests**
+![image alt](https://github.com/Pranaykokkonda/kubectl-task5/blob/4da782921a57a24d368be176378c60a43984abb4/01-Kubernetes-Apply.JPG)
+- **Displaying the output of Kubernetes pods and logs**
+![image alt](https://github.com/Pranaykokkonda/kubectl-task5/blob/4da782921a57a24d368be176378c60a43984abb4/02-kubectl-pods-logs.jpg)
+- **Displaying the output of Kubernetes services**
+![image alt](https://github.com/Pranaykokkonda/kubectl-task5/blob/4da782921a57a24d368be176378c60a43984abb4/03-kubectl-get-services.jpg)
+- **Displaying the output of Kubernetes scale deployment**
+![image alt](https://github.com/Pranaykokkonda/kubectl-task5/blob/4da782921a57a24d368be176378c60a43984abb4/04-kubectl-scale-deployment.jpg)
+
+---
+
